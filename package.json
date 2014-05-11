@@ -9,7 +9,7 @@
   "author": "matthew mueller <mattmuelle@gmail.com>",
   "dependencies": {
     "emitter-component": "1.0.1",
-    "is-browser": "https://github.com/avoronkin/modella.git#master"
+    "is-browser": "https://github.com/ForbesLindesay/is-browser/tarball/master"
   },
   "devDependencies": {
     "mocha": "*",
